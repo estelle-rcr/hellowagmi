@@ -1,1 +1,1 @@
-web: gunicorn app:wagmi
+web: gunicorn app:app
